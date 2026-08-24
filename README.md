@@ -7,21 +7,21 @@ Master Python sqlite3 to process massive datasets. From mapping the human genome
 
 ---
 
-`database_connect_or_create`  
+### `database_connect_or_create`  
 [database_connect_or_create.py](src/tutorials/1.1_database_connect_or_create/database_connect_or_create.py)
 
 [database_connect_or_create.md](src/tutorials/1.1_database_connect_or_create/database_connect_or_create_a.md)
 
 ---
 
-`insert_data`  
+### `insert_data`  
 [insert_data.py](src/tutorials/1.2_insert_data/insert_data.py)
 
 [insert_data.md](src/tutorials/1.2_insert_data/insert_data_a.md)
 
 ---
 
-`read_data`  
+### `read_data`  
 [read_data.py](src/tutorials/1.3_read_data/read_data.py)
 
 [read_data.md](src/tutorials/1.3_read_data/read_data.md)
