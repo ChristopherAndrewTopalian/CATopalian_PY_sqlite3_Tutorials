@@ -11,13 +11,13 @@ Welcome to the foundation of massive data management.
 
 Whether you are mapping the 3.2 billion base pairs of the human genome, managing supply chains for a military defense depot, or building the backend for a complex artificial intelligence, data is the architecture of the future.
 
-These tutorials will teach you how to harness **SQLite3**—a lightweight, zero-configuration database engine built directly into Python that is powerful enough to handle Terabytes of information. You will learn how to bypass the limitations of standard arrays and dictionaries to achieve instant, mathematical data lookups.
+These tutorials will teach you how to harness **SQLite3**, a lightweight, zero-configuration database engine built directly into Python that is powerful enough to handle Terabytes of information. You will learn how to bypass the limitations of standard arrays and dictionaries to achieve instant, mathematical data lookups.
 
 **Why learn this?**
 
 * **Massive Scale:** Learn to structure, query, and filter millions of records instantly.
 * **Real-World Application:** Used heavily in bioinformatics, edge-computing, robotics, and aerospace logistics.
-* **Pure Efficiency:** No complex enterprise server installations required—just pure, highly optimized Python scripting.
+* **Pure Efficiency:** No complex enterprise server installations required, just pure, highly optimized Python scripting.
 
 Complexity is the enemy of efficiency. These tutorials are designed to be clear, grounded, and immediately applicable so you can start building the systems that will advance humanity.
 
