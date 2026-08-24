@@ -21,6 +21,7 @@ Master Python sqlite3 to process massive datasets. From mapping the human genome
 
 ---
 
+`read_data`  
 [read_data.py](src/tutorials/1.3_read_data/read_data.py)
 
 [read_data.md](src/tutorials/1.3_read_data/read_data.md)
