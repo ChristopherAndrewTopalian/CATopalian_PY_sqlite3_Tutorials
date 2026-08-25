@@ -23,42 +23,42 @@ Complexity is the enemy of efficiency. These tutorials are designed to be clear,
 
 ---
 
-### `1.1_database_connect_or_create`  
+### `database_connect_or_create`  
 [database_connect_or_create.py](src/tutorials/1.1_database_connect_or_create/database_connect_or_create.py)
 
 [database_connect_or_create.md](src/tutorials/1.1_database_connect_or_create/database_connect_or_create_a.md)
 
 ---
 
-### `1.2_insert_data`  
+### `insert_data`  
 [insert_data.py](src/tutorials/1.2_insert_data/insert_data.py)
 
 [insert_data.md](src/tutorials/1.2_insert_data/insert_data_a.md)
 
 ---
 
-### `1.3_read_data`  
+### `read_data`  
 [read_data.py](src/tutorials/1.3_read_data/read_data.py)
 
 [read_data.md](src/tutorials/1.3_read_data/read_data.md)
 
 ---
 
-### `1.4_update_data`  
+### `update_data`  
 [update_data.py](src/tutorials/1.4_update_data/update_data.py)
 
 [update_data.md](src/tutorials/1.4_update_data/update_data_a.md)
 
 ---
 
-### `1.5_delete_data`  
+### `delete_data`  
 [delete_data.py](src/tutorials/1.5_delete_data/delete_data.py)
 
 [delete_data.md](src/tutorials/1.5_delete_data/delete_data_a.md)
 
 ---
 
-### `1.6_search_data`  
+### `search_data`  
 [search_data.py](src/tutorials/1.6_search_data/search_data.py)
 
 [search_data.md](src/tutorials/1.6_search_data/search_data_a.md)
