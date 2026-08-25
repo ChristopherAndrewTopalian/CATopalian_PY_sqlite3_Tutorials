@@ -65,6 +65,13 @@ Complexity is the enemy of efficiency. These tutorials are designed to be clear,
 
 ---
 
+### `sort_data`  
+[sort_data.py](src/tutorials/1.7_sort_data/sort_data.py)
+
+[sort_data.md](src/tutorials/1.7_sort_data/sort_data_a.md)
+
+---
+
 ### How to Download this App
 1. **Click** the green **Code Button** on this github page
 2. Choose **Download ZIP**
