@@ -58,7 +58,7 @@ Complexity is the enemy of efficiency. These tutorials are designed to be clear,
 
 ---
 
-`search_data`  
+### `search_data`  
 [search_data.py](src/tutorials/1.6_search_data/search_data.py)
 
 [search_data.md](src/tutorials/1.6_search_data/search_data_a.md)
