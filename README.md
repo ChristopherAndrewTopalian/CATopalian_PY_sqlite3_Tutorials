@@ -51,7 +51,7 @@ Complexity is the enemy of efficiency. These tutorials are designed to be clear,
 
 ---
 
-`delete_data`  
+### `delete_data`  
 [delete_data.py](src/tutorials/1.5_delete_data/delete_data.py)
 
 [delete_data.md](src/tutorials/1.5_delete_data/delete_data_a.md)
