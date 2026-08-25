@@ -44,7 +44,7 @@ Complexity is the enemy of efficiency. These tutorials are designed to be clear,
 
 ---
 
-`update_data`  
+### `update_data`  
 [update_data.py](src/tutorials/1.4_update_data/update_data.py)
 
 [update_data.md](src/tutorials/1.4_update_data/update_data_a.md)
