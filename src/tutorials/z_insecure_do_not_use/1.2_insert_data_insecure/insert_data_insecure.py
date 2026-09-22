@@ -1,30 +1,24 @@
-# insert_data_insecure.py
+# insert_data.py
 
 import sqlite3
 
 conn = sqlite3.connect('military_warehouse.db')
 cursor = conn.cursor()
 
-# The SQL command uses the '?' Security Shield placeholders
+# The SQL command to INSERT data
 sql_insert = """
 INSERT INTO Inventory (part_name, quantity, price) 
-VALUES (?, ?, ?)
-"""
-
-# The data is cleanly organized into a Python list
-military_items = [
+VALUES 
     ('Night Vision Goggles', 45, 2500.00),
     ('Kevlar Vest', 150, 450.50),
-    ('Field Medical Kit', 300, 75.25)
-]
+    ('Field Medical Kit', 300, 75.25);
+"""
 
-# executemany safely merges the command and the data
-cursor.executemany(sql_insert, military_items)
-
-conn.commit() # Always commit when making changes
+cursor.execute(sql_insert)
+conn.commit() # Always commit when making changes!
 conn.close()
 
-print("Military Warehouse data securely inserted!")
+print("Military Warehouse data inserted successfully!")
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
